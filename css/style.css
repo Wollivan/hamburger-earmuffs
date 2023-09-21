@@ -1,13 +1,13 @@
 body {
-  /* background-color: cadetblue; */
-  color: white;
-  font-family: monospace;
-  background: url("../images/earmuffs.png");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+	/* background-color: cadetblue; */
+	color: fuchsia;
+	font-family: monospace;
+	background: url("../images/earmuffs.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
 }
 
 h1 {
-  font-size: 5rem;
+	font-size: 5rem;
 }
